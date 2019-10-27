@@ -1,0 +1,63 @@
+<resources>
+	<string name="app_name">Игра случая</string>
+	<string name="randomOrel">Бросание монетки</string>
+	<string name="randomCubeBlock">Игральные кубики</string>
+	<string name="randomTrigramBlock">Триграммы</string>
+
+	<string name="randomHorizontalBlock">Горизонтальные блоки</string>
+	<string name="randomVerticalBlock">Вертикальные блоки</string>
+	<string name="randomHatchBlock">Штриховки</string>
+	<string name="randomMainBlock">Линии таблицы</string>
+	<string name="randomDigitBlock">Цифры</string>
+	<string name="randomAnimalBlock">Животные</string>
+	<string name="randomClockBlock">Часы</string>
+
+	<string name="randomFoodBlock">Еда</string>
+	<string name="randomPlantBlock">Растения</string>
+	<string name="randomSmileBlock">Лица</string>
+	<string name="randomHandsBlock">Жесты</string>
+	<string name="randomTransportBlock">Транспорт</string>
+	<string name="randomZodiacBlock">Знаки зодиака</string>
+	<string name="randomChessBlock">Шахматы</string>
+	<string name="randomArrowBlock">Направление</string>
+	<string name="randomMoonBlock">Луна</string>
+
+	<string name="randomPasswordBlock">Пароль</string>
+	<string name="randomLatinBlock">Латиница</string>
+	<string name="randomCyrillicBlock">Кириллица</string>
+	<string name="randomHebrewBlock">Иврит</string>
+	<string name="randomGreekBlock">Греческие</string>
+	<string name="randomPasswordWord">Случайный пароль</string>
+	<string name="randomMainNumber">Числа</string>
+	<string name="randomSetNumber">Числа без повторений</string>
+
+	<string name="randomPasswordWordFull">Пароль</string>
+	<string name="randomPasswordWordUpperDigitSpec">Пароль</string>
+	<string name="randomPasswordWordUpperDigit">Пароль</string>
+	<string name="randomPasswordWordLatin">Пароль</string>
+
+	<string name="randomOrelName">Простые случаи</string>
+	<string name="randomBlockName">Случайные блоки</string>
+	<string name="randomAlphabetName">Случайные буквы</string>
+	<string name="randomNumberName">Случайные числа</string>
+	<string name="randomSmileName">Случайные смайлики</string>
+	<string name="randomPasswordName">Случайный пароль</string>
+
+
+	<string name="toastCopyText">Скопировано в буфер обмена</string>
+	<string name="btnGenerate">Сгенерировать</string>
+	<string name="labelSymbolAmount">Количество символов:</string>
+	<string name="labelDigitsAmount">Количество цифр:</string>
+	<string name="labelNumberAmount">Количество чисел:</string>
+	<string name="labelSmileAmount">Количество смайликов:</string>
+	<string name="labelShotsAmount">Количество бросков:</string>
+	<string name="labelCubsAmount">Количество кубиков:</string>
+
+	<string name="diapazonValues">Диапазон значений:</string>
+	<string name="diapazonValuesBegin">от</string>
+	<string name="diapazonValuesEnd">по</string>
+	<string name="basisValues">Основание системы счисления:</string>
+	<string name="chooseSend">"Отправить с помощью…"</string>
+
+
+</resources>

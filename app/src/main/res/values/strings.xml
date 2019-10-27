@@ -1,0 +1,66 @@
+<resources>
+	<string name="app_name">Game of random</string>
+	<string name="randomOrel">Heads or tails</string>
+	<string name="randomCubeBlock">Dice</string>
+	<string name="randomTrigramBlock">Trigram</string>
+
+	<string name="randomHorizontalBlock">Horizontal blocks</string>
+	<string name="randomVerticalBlock">Vertical blocks</string>
+	<string name="randomHatchBlock">Hatch</string>
+	<string name="randomMainBlock">Table line</string>
+	<string name="randomDigitBlock">Digits</string>
+	<string name="randomAnimalBlock">Animals</string>
+	<string name="randomClockBlock">Clocks</string>
+
+	<string name="randomFoodBlock">Food</string>
+	<string name="randomPlantBlock">Plants</string>
+	<string name="randomSmileBlock">Faces</string>
+	<string name="randomHandsBlock">Hands</string>
+	<string name="randomTransportBlock">Transports</string>
+	<string name="randomZodiacBlock">Zodiac signs</string>
+	<string name="randomChessBlock">Chessmen</string>
+	<string name="randomArrowBlock">Arrows</string>
+	<string name="randomMoonBlock">Moon</string>
+
+	<string name="randomPasswordBlock">Password</string>
+	<string name="randomLatinBlock">Latin</string>
+	<string name="randomGreekBlock">Greek</string>
+	<string name="randomCyrillicBlock">Cyrillic</string>
+	<string name="randomHebrewBlock">Hebrew</string>
+	<string name="randomPasswordWord">Random password</string>
+	<string name="randomMainNumber">Numbers</string>
+	<string name="randomSetNumber">Numbers without repetition</string>
+
+	<string name="randomPasswordWordFull">Password</string>
+	<string name="randomPasswordWordUpperDigitSpec">Password</string>
+	<string name="randomPasswordWordUpperDigit">Password</string>
+	<string name="randomPasswordWordLatin">Password</string>
+
+	<string name="randomOrelName">Simple random</string>
+	<string name="randomBlockName">Random blocks</string>
+	<string name="randomAlphabetName">Random letters</string>
+	<string name="randomNumberName">Random numbers</string>
+	<string name="randomSmileName">Random emoticons</string>
+	<string name="randomPasswordName">Random password</string>
+	<string name="passwordUpper" translatable="false">A–Z</string>
+	<string name="passwordLower" translatable="false">a–z</string>
+	<string name="passwordDigit" translatable="false">"0–9"</string>
+	<string name="passwordSpec" translatable="false">!@#$%</string>
+
+	<string name="toastCopyText">Copied to Clipboard</string>
+	<string name="btnGenerate">Generate</string>
+	<string name="labelSymbolAmount">Amount of characters:</string>
+	<string name="labelDigitsAmount">Amount of digits:</string>
+	<string name="labelNumberAmount">Amount of numbers:</string>
+	<string name="labelSmileAmount">Amount of emoticons:</string>
+	<string name="labelShotsAmount">Number of shots:</string>
+	<string name="labelCubsAmount">Number of dice:</string>
+
+
+	<string name="diapazonValues">Range:</string>
+	<string name="diapazonValuesBegin">from</string>
+	<string name="diapazonValuesEnd">to</string>
+	<string name="basisValues">Radix:</string>
+	<string name="chooseSend">"Send via…"</string>
+
+</resources>
